@@ -1,0 +1,26 @@
+ body {
+        background-color: #b6dae4;
+        margin: 0;
+        font-family: Arial, Helvetica, sans-serif;
+        }
+    .topnav {
+        overflow: hidden;
+        background-color: #000000;
+    }
+    .topnav a {
+        float:left;
+        color: #b6dae4;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration:none;
+        font-size: 17px;
+    }
+    .topnav a:hover {
+        background-color: #b6dae4;
+        color:#000000;
+    }
+    main {
+        min-width: 95%;
+        max-width: 800px;
+        margin: 0 auto;
+    }

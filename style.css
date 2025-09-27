@@ -5,9 +5,11 @@ body {
 }
 .topnav {
   overflow: hidden;
+  padding-left: 5px;
   background-color: #000000;
 }
 .topnav a {
+  border-radius: 10px 10px 0 0;
   float: left;
   color: #b6dae4;
   text-align: center;
